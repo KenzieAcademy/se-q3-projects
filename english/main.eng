@@ -1,0 +1,13 @@
+comments:
+this is a multi-line comment...
+for real
+end comments
+
+make x 5
+show x
+comment: this is pretty cool
+is x 10
+is x 5
+
+subtract 2 from x
+show x
