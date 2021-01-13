@@ -3,7 +3,10 @@
 This is a simple syntax layer on top of Python for running
 code that resembles english sentences.
 
-### Available Commands
+## Usage
+```python english.py main.eng```
+
+### Available English Commands
 
 - `make x 1` &mdash; assign a value to a variable.
 - `show x` &mdash; display a value.
